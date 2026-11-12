@@ -1,0 +1,1 @@
+"""TrendScope application package."""
